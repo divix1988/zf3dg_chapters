@@ -1,0 +1,23 @@
+<?php $ignoredPages = $user ? ['Registration', 'Logging'] : ['My Account', 'Logout']; ?>
+
+<ul class="nav navbar-nav">
+<?php foreach ($this->container as $page) {
+    $active = $page->isActive() ? 'class="active"' : '';
+    
+    if (in_array($page->getLabel(), $ignoredPages)) {
+        continue;
+    }
+    echo '<li '.$active.'>'.$this->navigation()->menu()->htmlify($page);
+    
+    /*if ($page->hasPages()) {
+        echo '<ul>';
+        
+        foreach ($page->getPages() as $subPage) {
+            echo '<li>'.$this->navigation()->menu()->htmlify($subPage).'</li>';
+        }
+        echo '</ul>';
+    }*/
+    echo '</li>';
+    //echo $page->getRoute();
+} ?>
+</ul>

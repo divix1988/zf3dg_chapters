@@ -1,0 +1,21 @@
+<div class="adminLeft floatLeft">
+    <?php $action = $this->layout()->getVariable('action'); ?>
+   
+   <div class="col-sm-3">
+      <ul id="nav-tabs-wrapper" class="nav nav-tabs nav-pills nav-stacked well">
+         <li <?php if ($action === 'addpage'): ?>class="active"<?php endif; ?>>
+             <a href="<?= $this->url('admin/articles', ['action' => 'addpage']) ?>">Add New Page</a>
+         </li>
+         <li <?php if ($action == 'index'): ?>class="active"<?php endif; ?>>
+             <a href="<?= $this->url('admin/articles') ?>">Lista Stron</a>
+         </li>
+         <li <?php if ($action === 'addcontent'): ?>class="active"<?php endif; ?>>
+             <a href="<?= $this->url('admin/articles', ['action' => 'addcontent']) ?>">Add New Contents</a>
+         </li>
+         <li <?php if ($action === 'showcontents'): ?>class="active"<?php endif; ?>>
+             <a href="<?= $this->url('admin/articles', ['action' => 'showcontents']) ?>">List Contents</a>
+         </li>
+      </ul>
+   </div>
+
+</div>

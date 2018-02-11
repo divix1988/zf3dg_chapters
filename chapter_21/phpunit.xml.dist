@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true">
+    <testsuites>
+        <testsuite name="Zend3">
+            <directory>./module/Application/test</directory>
+        </testsuite>
+    </testsuites>
+    <php>
+        <const name="APPLICATION_PATH" value="D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\" />
+        <server name="APPLICATION_ENV" value="tests" />
+    </php>
+</phpunit>

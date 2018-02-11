@@ -1,0 +1,133 @@
+<div class="error-page">
+    <h2>Oops!</h2>
+    <h1 class="error404"> 404 </h1>
+    <div class="error-details">
+        <h2>Page not found.</h2>
+    </div>
+    
+    <form class="form-inline">
+    <div class="form-group">
+        <label for="search">Search</label>
+        <input type="text" class="form-control" id="search" placeholder="Search something else...">
+    </div>
+    <button type="submit" class="btn btn-primary btn-large">Search</button>
+    </form>
+    
+    
+    <div class="error-actions">
+        <a href="<?= $this->url('home') ?>" class="btn btn-primary btn-lg">
+            <span class="glyphicon glyphicon-home"></span> Take me to the Home Page 
+        </a>
+        <a href="<?= $this->url('home') ?>" class="btn btn-default btn-lg">
+            <span class="glyphicon glyphicon-envelope"></span> Report an Issue 
+        </a>
+    </div>
+
+
+    <?php if (isset($this->reason) && $this->reason): ?>
+
+        <?php
+        $reasonMessage= '';
+        switch ($this->reason) {
+            case 'error-controller-cannot-dispatch':
+                $reasonMessage = 'Controller was not able to return response result.';
+                break;
+            case 'error-controller-not-found':
+                $reasonMessage = 'Controller could not map controller\'s class.';
+                break;
+            case 'error-controller-invalid':
+                $reasonMessage = 'Controller does not respond.';
+                break;
+            case 'error-router-no-match':
+                $reasonMessage = 'URL Address could not be mapped by router.';
+                break;
+            default:
+                $reasonMessage = 'Unexpected 404 error.';
+                break;
+        }
+        ?>
+
+        <p><?= $reasonMessage ?></p>
+
+    <?php endif ?>
+
+    <?php if (isset($this->controller) && $this->controller): ?>
+
+        <dl>
+            <dt>Controller:</dt>
+            <dd><?= $this->escapeHtml($this->controller) ?>
+        <?php
+        if (isset($this->controller_class)
+            && $this->controller_class
+            && $this->controller_class != $this->controller
+        ) {
+            echo '(' . sprintf('corresponds %s', $this->escapeHtml($this->controller_class)) . ')';
+        }
+        ?>
+        </dd>
+        </dl>
+
+    <?php endif ?>
+
+    <?php if (isset($this->display_exceptions) && $this->display_exceptions): ?>
+
+        <?php if(isset($this->exception) && ($this->exception instanceof Exception || $this->exception instanceof Error)): ?>
+            <hr/>
+            <h2>Additional information:</h2>
+            <h3><?= get_class($this->exception) ?></h3>
+            <dl>
+                <dt>File:</dt>
+                <dd>
+                    <pre class="prettyprint linenums"><?= $this->exception->getFile() ?>:<?= $this->exception->getLine() ?></pre>
+                </dd>
+                <dt>Message:</dt>
+                <dd>
+                    <pre class="prettyprint linenums"><?= $this->exception->getMessage() ?></pre>
+                </dd>
+                <dt>Stack trace:</dt>
+                <dd>
+                    <pre class="prettyprint linenums"><?= $this->exception->getTraceAsString() ?></pre>
+                </dd>
+            </dl>
+            <?php
+                $e = $this->exception->getPrevious();
+                $icount = 0;
+                if ($e) :
+            ?>
+                <hr/>
+                <h2>Previous exceptions:</h2>
+                <ul class="unstyled">
+                    <?php while($e) : ?>
+                    <li>
+                        <h3><?= get_class($e) ?></h3>
+                        <dl>
+                            <dt>File:</dt>
+                            <dd>
+                                <pre class="prettyprint linenums"><?= $e->getFile() ?>:<?= $e->getLine() ?></pre>
+                            </dd>
+                            <dt>Message:</dt>
+                            <dd>
+                                <pre class="prettyprint linenums"><?= $e->getMessage() ?></pre>
+                            </dd>
+                            <dt>Stack trace:</dt>
+                            <dd>
+                                <pre class="prettyprint linenums"><?= $e->getTraceAsString() ?></pre>
+                            </dd>
+                        </dl>
+                    </li>
+                    <?php
+                        $e = $e->getPrevious();
+                        $icount += 1;
+                        if ($icount >=50) {
+                            echo "<li>There are even more execeptions..</li>";
+                            break;
+                        }
+                        endwhile;
+                    ?>
+                </ul>
+            <?php endif; ?>
+
+        <?php endif ?>
+
+    <?php endif ?>
+</div>

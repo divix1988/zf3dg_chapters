@@ -1,0 +1,23 @@
+<div class="jumbotron">
+    <h1><span class="zf-green">Forms in Bootstrap 3 format</span></h1>
+
+    <h2>Vertical Format</h2>
+    <?= $this->bootstrapForm($form, 'vertical'); ?>
+    
+    <br />
+    <h2>Horizontal Format</h2>
+    <?= $this->bootstrapForm($form, 'horizontal'); ?>
+    
+    <br />
+    <h2>Single-line Format</h2>
+    <?= $this->bootstrapForm($form, 'inline'); ?>
+    
+    <?php 
+    //echo $this->bootstrapForm()->render($form);
+    
+    /*echo $this->formHidden($form->get('id'));
+    echo $this->formRow($form->get('username'));
+    echo $this->formSubmit($form->get('submit'));
+    echo $this->form()->closeTag();*/
+    ?>
+</div>

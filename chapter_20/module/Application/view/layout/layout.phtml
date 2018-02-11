@@ -1,0 +1,84 @@
+<?= $this->doctype() ?>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <?= $this->headTitle('ZF Skeleton Application')->setSeparator(' - ')->setAutoEscape(false) ?>
+
+        <?= $this->headMeta()
+            ->appendName('viewport', 'width=device-width, initial-scale=1.0')
+            ->appendHttpEquiv('X-UA-Compatible', 'IE=edge')
+        ?>
+
+        <!-- Le styles -->
+        <?= $this->headLink(['rel' => 'shortcut icon', 'type' => 'image/vnd.microsoft.icon', 'href' => $this->basePath() . '/img/favicon.ico'])
+                ->prependStylesheet($this->basePath('css/bootstrap-theme.min.css'))
+                ->prependStylesheet($this->basePath('css/bootstrap.min.css'))
+                ->appendStylesheet($this->basePath('css/style.css'))
+        ?>
+
+        <!-- Scripts -->
+        <?= $this->headScript()
+            ->prependFile($this->basePath('js/bootstrap.min.js'))
+            ->prependFile($this->basePath('js/jquery-2.2.4.min.js'))
+        ?>
+        
+        <?= $this->navigation('Zend\Navigation\Default')->links().PHP_EOL ?>
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="<?php echo $this->url('home') ?>">
+                        <img src="<?= $this->basePath('img/zf-logo.png') ?>" alt="Zend Framework <?= \Application\Module::VERSION ?>"/>&nbsp;Skeleton Application
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <?= $this->navigation('Zend\Navigation\Default')->menu()
+                        ->setMaxDepth(2)
+                        /*->setUlClass('nav navbar-nav')
+                        ->render() */
+                        ->setPartial('application/_shared/menu.phtml')
+                        ->renderPartialWithParams(
+                            [
+                                'user' => $this->user
+                            ]
+                        )
+                    ?>
+                </div>
+            </div>
+        </nav>
+        
+        <div class="container">
+            <div class="breadcrumb">
+                <?= $this->navigation('Zend\Navigation\Default')->breadcrumbs()
+                    ->setLinkLast(false)
+                    ->setMinDepth(0)
+                    ->setMaxDepth(5)
+                    ->setSeparator(' / ')
+                    ->render() 
+                ?>
+            </div>
+            
+            <?= $this->content; ?>
+            <hr>
+            <footer>
+                <p>2018 Zend Framework 3 - Developer's Guide. Adam Omelak</p>
+            </footer>
+        </div>
+        <?php
+            $this->inlineScript()->captureStart();
+            echo "
+                $('select.dropdown').change(function(){
+                    location.href = $(this).val();
+                });
+            ";
+            $this->inlineScript()->captureEnd(); ?>
+        <?= $this->inlineScript() ?>
+    </body>
+</html>

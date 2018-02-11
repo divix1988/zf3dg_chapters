@@ -1,0 +1,1768 @@
+2017-02-03T16:58:01+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-03T22:21:00+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T20:09:41+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:07:43+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:09:27+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:09:40+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:10:16+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:12:32+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:12:49+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:12:57+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:13:08+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:14:42+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:14:57+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:16:07+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:18:35+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:18:37+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-04T21:21:06+01:00 INFO (6): DivixUtils\Logs\Debug::dump - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\IndexController.php on file 29 z 2 arguments.Application\Controller\IndexController->indexAction - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractActionController.php on file 78 z 0 arguments.Zend\Mvc\Controller\AbstractActionController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\module\Application\src\Controller\AbstractController.php on file 24 z 1 arguments.Application\Controller\AbstractController->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Controller\AbstractController.php on file 105 z 2 arguments.Zend\Mvc\Controller\AbstractController->dispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\DispatchListener.php on file 119 z 2 arguments.Zend\Mvc\DispatchListener->onDispatch - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 322 z 1 arguments.Zend\EventManager\EventManager->triggerListeners - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-eventmanager\src\EventManager.php on file 179 z 2 arguments.Zend\EventManager\EventManager->triggerEventUntil - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\zendframework\zend-mvc\src\Application.php on file 332 z 2 arguments.Zend\Mvc\Application->run - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\public\index.php on file 50 z 0 arguments.include - in file D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\index.php on file 1 z 1 arguments.DUMP string(18) "medium message"
+
+2017-02-20T23:13:52+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(71) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, NULL, NULL)"
+
+
+2017-02-20T23:17:59+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:18:38+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:18:38+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(71) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, NULL, NULL)"
+
+
+2017-02-20T23:19:10+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:19:10+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(71) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, NULL, NULL)"
+
+
+2017-02-20T23:19:21+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:19:21+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:19:57+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:19:58+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:20:55+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:20:55+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:21:55+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:21:55+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:25:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:25:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:26:06+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:26:06+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:26:28+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:26:29+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:26:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:26:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:27:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:27:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:28:00+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:28:00+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:28:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:28:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:30:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:30:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:31:08+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:31:08+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:31:37+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:31:37+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:32:11+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:32:11+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:32:28+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:32:28+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'plik.gif')"
+
+
+2017-02-20T23:32:55+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:32:55+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:33:21+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:33:21+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:33:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:33:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:34:22+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:34:22+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:34:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:34:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:35:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:35:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:36:08+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.giff')"
+
+
+2017-02-20T23:36:08+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:36:23+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.giff')"
+
+
+2017-02-20T23:36:23+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:37:52+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.giff')"
+
+
+2017-02-20T23:37:52+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:38:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.giff')"
+
+
+2017-02-20T23:38:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:38:29+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:38:29+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:38:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:38:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:43:23+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:43:23+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-20T23:43:56+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-20T23:43:56+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T22:12:10+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T22:12:10+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T22:15:07+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T22:15:07+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T22:40:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T22:40:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T22:46:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T22:46:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T22:48:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T22:48:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T23:22:31+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T23:22:31+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T23:29:02+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T23:29:02+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T23:29:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T23:29:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-21T23:29:47+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-21T23:29:47+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T00:47:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T00:47:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T00:52:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T00:52:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T00:53:20+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T00:53:20+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T00:54:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T00:54:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T00:54:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T00:54:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T00:55:09+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T00:55:09+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T00:55:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T00:55:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:19:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:19:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:20:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:20:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:20:58+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:20:58+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:23:25+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:23:25+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:25:02+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:25:02+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:25:48+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32DUMP string(163) "INSERT INTO `users` (`id`, `username`, `email`, `gender`, `education`, `password`, `password_salt`, `role`) VALUES (NULL, '22', NULL, NULL, NULL, NULL, NULL, NULL)"
+
+2017-02-22T01:25:56+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42DUMP string(37) "DELETE FROM `users` WHERE `id` = '23'"
+
+2017-02-22T01:30:57+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:30:57+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:32:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:32:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:32:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:32:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:33:21+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:33:21+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:34:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:34:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:34:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:34:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:35:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:35:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:35:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:35:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:36:22+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:36:22+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:36:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:36:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:42:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:42:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:43:20+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:43:20+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:43:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:43:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:44:50+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:44:50+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:45:09+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:45:09+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:46:11+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:46:11+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:46:48+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:46:48+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:47:38+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:47:38+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:48:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:48:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:48:26+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:48:26+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:49:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:49:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:49:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:49:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:51:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:51:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:52:14+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:52:14+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:52:49+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:52:49+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:55:46+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:55:46+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:56:06+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:56:06+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:57:00+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:57:00+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:57:23+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:57:23+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:57:41+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:57:41+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:59:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:59:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T01:59:30+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T01:59:30+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:02:59+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:02:59+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:06:15+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:06:15+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:08:00+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:08:01+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:08:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:08:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:10:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:10:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:10:28+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:10:28+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:11:51+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:11:51+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:13:07+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:13:07+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:13:24+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:13:24+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:13:48+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:13:48+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:15:57+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:15:57+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:16:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:16:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:16:37+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:16:37+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:20:19+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:20:19+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:20:46+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:20:46+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:23:37+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:23:37+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-22T18:25:54+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-22T18:25:54+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T19:44:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T19:44:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T19:45:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T19:45:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T19:51:42+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T19:51:42+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T19:59:10+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T19:59:11+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:20:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:20:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:24:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:24:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:24:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:24:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T20:25:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:25:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:25:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:25:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T20:26:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:26:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:26:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:26:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T20:26:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:26:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:26:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:26:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T20:28:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:28:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:28:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:28:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T20:31:15+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:31:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:31:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:31:16+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T20:31:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-23T20:31:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-23T20:31:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-23T20:36:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T20:36:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:36:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T20:36:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T20:36:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-23T20:36:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-23T20:36:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-23T22:39:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-23T22:39:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T22:39:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-23T22:39:05+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-23T22:39:06+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-23T22:39:06+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-23T22:39:06+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-25T17:10:56+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-25T17:10:56+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-25T17:10:56+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-25T17:11:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-25T17:11:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-25T17:11:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-25T17:11:03+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-25T17:11:04+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-25T17:11:04+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-25T17:11:04+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-25T19:05:42+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-25T19:05:42+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-25T19:05:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-25T19:05:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-25T19:05:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-25T19:05:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-25T19:05:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-25T22:12:30+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-25T22:12:30+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-25T22:12:30+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-25T22:12:30+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-25T22:12:31+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-25T22:12:31+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-25T22:12:31+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T12:50:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(170) "INSERT INTO `users` (`id`, `username`, `email`, `gender`, `education`, `password`, `password_salt`, `role`) VALUES (NULL, 'new_user', NULL, NULL, NULL, NULL, NULL, NULL)"
+
+
+2017-02-26T12:50:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(211) "UPDATE `users` SET `id` = '1', `username` = 'new_user_updated', `email` = 'abc@funkcje.net', `gender` = 'male', `education` = 'primary', `password` = NULL, `password_salt` = NULL, `role` = NULL WHERE `id` = '1'"
+
+
+2017-02-26T12:50:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(48) "DELETE FROM `user_hobbies` WHERE `user_id` = '1'"
+
+
+2017-02-26T12:50:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(69) "INSERT INTO `user_hobbies` (`user_id`, `hobby`) VALUES ('1', 'books')"
+
+
+2017-02-26T12:52:26+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T12:52:26+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:52:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:52:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T12:52:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T12:52:28+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T12:52:28+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T12:52:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(170) "INSERT INTO `users` (`id`, `username`, `email`, `gender`, `education`, `password`, `password_salt`, `role`) VALUES (NULL, 'new_user', NULL, NULL, NULL, NULL, NULL, NULL)"
+
+
+2017-02-26T12:52:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(211) "UPDATE `users` SET `id` = '1', `username` = 'new_user_updated', `email` = 'abc@funkcje.net', `gender` = 'male', `education` = 'primary', `password` = NULL, `password_salt` = NULL, `role` = NULL WHERE `id` = '1'"
+
+
+2017-02-26T12:52:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(48) "DELETE FROM `user_hobbies` WHERE `user_id` = '1'"
+
+
+2017-02-26T12:52:34+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(69) "INSERT INTO `user_hobbies` (`user_id`, `hobby`) VALUES ('1', 'books')"
+
+
+2017-02-26T12:52:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T12:52:35+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:52:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:52:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T12:52:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T12:52:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T12:52:36+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T12:53:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T12:53:17+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:53:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:53:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T12:53:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T12:53:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T12:53:18+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T12:53:30+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(170) "INSERT INTO `users` (`id`, `username`, `email`, `gender`, `education`, `password`, `password_salt`, `role`) VALUES (NULL, 'new_user', NULL, NULL, NULL, NULL, NULL, NULL)"
+
+
+2017-02-26T12:53:31+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T12:53:31+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:53:32+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:53:32+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T12:53:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T12:53:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T12:53:33+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T12:55:25+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T12:55:26+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:55:26+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T12:55:26+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T12:55:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T12:55:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T12:55:27+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T14:56:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T14:56:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T14:56:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T14:56:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T14:56:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T14:56:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T14:56:45+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T15:20:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T15:20:12+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T15:20:13+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T15:20:13+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T15:20:13+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T15:20:13+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T15:20:13+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+
+2017-02-26T15:20:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(78) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc', 'plik.gif')"
+
+
+2017-02-26T15:20:43+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T15:20:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(79) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'abc2', 'file.jpg')"
+
+
+2017-02-26T15:20:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 37
+DUMP 
+string(92) "UPDATE `comics` SET `title` = 'updated_title', `thumb` = 'updated_file.jpg' WHERE `id` = '1'"
+
+
+2017-02-26T15:20:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'delete_title', 'delete.jpg')"
+
+
+2017-02-26T15:20:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 32
+DUMP 
+string(89) "INSERT INTO `comics` (`id`, `title`, `thumb`) VALUES (NULL, 'normal_title', 'normal.jpg')"
+
+
+2017-02-26T15:20:44+01:00 INFO (6): D:\RZECZY_ADAMA\_XAMPP\xampp-5.6\htdocs\zend3\vendor\divixutils\src\DivixUtils\Zend\Db\TableGateway\TableGateway.php on file 42
+DUMP 
+string(37) "DELETE FROM `comics` WHERE `id` = '1'"
+
+

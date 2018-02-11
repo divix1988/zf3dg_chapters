@@ -1,0 +1,3 @@
+2017-02-03T16:58:01+01:00 ERR (3): Call to undefined function Application\Controller\metoda() {"file":"D:\\RZECZY_ADAMA\\_XAMPP\\xampp-5.6\\htdocs\\zend3\\module\\Application\\src\\Controller\\IndexController.php","line":31}
+2017-02-03T22:21:00+01:00 ERR (3): Call to undefined function Application\Controller\metoda() {"file":"D:\\RZECZY_ADAMA\\_XAMPP\\xampp-5.6\\htdocs\\zend3\\module\\Application\\src\\Controller\\IndexController.php","line":31}
+2017-02-04T20:09:41+01:00 ERR (3): Call to undefined function Application\Controller\metoda() {"file":"D:\\RZECZY_ADAMA\\_XAMPP\\xampp-5.6\\htdocs\\zend3\\module\\Application\\src\\Controller\\IndexController.php","line":31}

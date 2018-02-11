@@ -1,0 +1,78 @@
+<div class="error-page">
+    <h2>Error :(</h2>
+    <h1 class="error404"> 500 </h1>
+    <div class="error-details">
+        <h2>An error occurred during processing, please try again or report a problem.</h2>
+    </div>
+    
+    <div class="error-actions">
+        <a href="<?= $this->url('home') ?>" class="btn btn-primary btn-lg">
+            <span class="glyphicon glyphicon-home"></span> Take me to the Home Page 
+        </a>
+        <a href="<?= $this->url('home') ?>" class="btn btn-default btn-lg">
+            <span class="glyphicon glyphicon-envelope"></span> Report an Issue 
+        </a>
+    </div>
+
+    <?php if (isset($this->display_exceptions) && $this->display_exceptions): ?>
+
+        <?php if(isset($this->exception) && ($this->exception instanceof Exception || $this->exception instanceof Error)): ?>
+            <hr/>
+            <h2>Additional information:</h2>
+            <h3><?= get_class($this->exception) ?></h3>
+            <dl>
+                <dt>File:</dt>
+                <dd>
+                    <pre class="prettyprint linenums"><?= $this->exception->getFile() ?>:<?= $this->exception->getLine() ?></pre>
+                </dd>
+                <dt>Message:</dt>
+                <dd>
+                    <pre class="prettyprint linenums"><?= $this->escapeHtml($this->exception->getMessage()) ?></pre>
+                </dd>
+                <dt>Stack trace:</dt>
+                <dd>
+                    <pre class="prettyprint linenums"><?= $this->escapeHtml($this->exception->getTraceAsString()) ?></pre>
+                </dd>
+            </dl>
+            <?php
+                $e = $this->exception->getPrevious();
+                $icount = 0;
+                if ($e) :
+            ?>
+                <hr/>
+                <h2>Previous exceptions:</h2>
+                <ul class="unstyled">
+                    <?php while($e) : ?>
+                    <li>
+                        <h3><?= get_class($e) ?></h3>
+                        <dl>
+                            <dt>File:</dt>
+                            <dd>
+                                <pre class="prettyprint linenums"><?= $e->getFile() ?>:<?= $e->getLine() ?></pre>
+                            </dd>
+                            <dt>Message:</dt>
+                            <dd>
+                                <pre class="prettyprint linenums"><?= $this->escapeHtml($e->getMessage()) ?></pre>
+                            </dd>
+                            <dt>Stack trace:</dt>
+                            <dd>
+                                <pre class="prettyprint linenums"><?= $this->escapeHtml($e->getTraceAsString()) ?></pre>
+                            </dd>
+                        </dl>
+                    </li>
+                    <?php
+                        $e = $e->getPrevious();
+                        $icount += 1;
+                        if ($icount >= 50) {
+                            echo "<li>There are even more execeptions..</li>";
+                            break;
+                        }
+                        endwhile;
+                    ?>
+                </ul>
+            <?php endif; ?>
+
+        <?php endif ?>
+
+    <?php endif ?>
+</div>
